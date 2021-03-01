@@ -1,0 +1,36 @@
+
+.Container {
+height: 100vh;
+max-width: 992px;
+margin: 0 auto;
+padding: 2.5rem 2rem;
+display: flex;
+flex-direction: column;
+}
+
+.Container section {
+flex: 1;
+display: grid;
+grid-template-columns: 1fr 1fr;
+gap: 6.25rem;
+align-content: center;
+}
+
+@media (max-width: 320px) {
+    .Container section {
+     margin-left: -10px!important;
+    }
+}
+
+@media (max-width: 720px) {
+    .rightSidePage {
+        margin-top: 25px;
+        margin-bottom: 25px;
+    }
+
+    .Container section:last-child {
+        display: block;
+        float: left;
+        margin: auto;
+    }
+}
