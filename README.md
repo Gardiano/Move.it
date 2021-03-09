@@ -1,4 +1,4 @@
-##Move-it 
+## Move-it 
 
 ## Start
 Iniciando servidor de desenvolvimento.
@@ -9,14 +9,14 @@ npm run dev
 yarn dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Abrir em [http://localhost:3000](http://localhost:3000)
 
 O Move-it é uma aplicação que tem o objetivo de ajudar pessoas que passam muito tempo em frente ao PC, a cada 25 minutos é passado um exercicio que a pessoa poderá realizar para aliviar a tensão. usando cookies para armazenar os dados do app.
 
 
-React
-Next-js
-Typescript
+React <br />
+Next-js <br />
+Typescript <br />
 
 
 
