@@ -21,7 +21,7 @@
 
 ## ✨ Tecnologias
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto foi desenvolvido com base no conteúdo da semana NLW04 da rocketseat com as seguintes tecnologias:
 
 - [React](https://reactjs.org)
 - [Next.js](https://nextjs.org/)
