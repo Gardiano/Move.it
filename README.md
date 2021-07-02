@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  <img alt="move.it" title="move.it" src=".github/logo.png" />
+  Move.it!
 </h1>
 
 <p align="center">
@@ -18,10 +18,6 @@
 </p>
 
 <br>
-
-<p align="center">
-  <img alt="Happy" src=".github/moveit.png" width="100%">
-</p>
 
 ## ✨ Tecnologias
 
